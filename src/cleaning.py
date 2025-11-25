@@ -1,1 +1,1 @@
-
+print('cleaning script placeholder')
