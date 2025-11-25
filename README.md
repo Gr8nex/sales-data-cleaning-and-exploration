@@ -1,2 +1,4 @@
-# sales-data-cleaning-and-exploration
-A complete sales data cleaning and exploration workflow using Python, Jupyter Notebooks, and SQL. Includes preprocessing steps, handling missing values, data validation, and exploratory insights.
+# Project 1 — Cleaning and Exploring a Sales Dataset
+
+This project demonstrates data cleaning, profiling, and summary generation.
+See the folder structure and scripts for details.
